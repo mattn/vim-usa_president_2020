@@ -2,7 +2,7 @@
 
 Indicate USA President 2020 in Vim
 
-![vim-usa-president-2020](https://raw.githubusercontent.com/mattn/vim-usa_president_2020/master/misc/screenshot.png)
+![vim-usa-president-2020](https://raw.githubusercontent.com/mattn/vim-usa_president_2020/main/misc/screenshot.png)
 
 ## Usage
 
